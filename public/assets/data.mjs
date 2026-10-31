@@ -177,7 +177,7 @@ export const ledgerEvents = [
     offer: "all",
     summary: "Added test scripts, static hosting structure, GitHub Actions checks, and Pages publishing.",
     status: "complete",
-    publicLink: "https://github.com/juleshaggard/proof-ledger-lab"
+    publicLink: "https://github.com/julesdarling/proof-ledger-lab"
   },
   {
     id: "evt-006",
@@ -187,7 +187,7 @@ export const ledgerEvents = [
     offer: "all",
     summary: "Published the static experiment lab and verified the live home, ledger, and offer subpages render without console errors.",
     status: "complete",
-    publicLink: "https://juleshaggard.github.io/proof-ledger-lab/"
+    publicLink: "https://julesdarling.github.io/proof-ledger-lab/"
   }
 ];
 
